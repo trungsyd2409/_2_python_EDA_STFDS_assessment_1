@@ -1,0 +1,52 @@
+Phase 1 — Problem
+    Viết business context
+    Xác định target y
+    Viết objective
+    Viết 3–5 research questions
+    Viết 3–4 hypotheses
+
+Phase 2 — Data quality
+    Load CSV đúng cách
+    shape
+    head
+    info
+    describe
+    kiểm tra data types
+    missing values
+    unknown
+    duplicates
+    invalid values
+    outliers
+    inconsistent categories
+
+Phase 3 — Preprocessing
+    Fix CSV formatting
+    Convert numerical columns
+    Clean categorical values
+    Decide how to handle missing/unknown
+    Decide how to handle duplicates/errors
+    Verify dataset after cleaning
+
+Phase 4 — EDA
+    Target distribution
+    Numerical distributions
+    Categorical distributions
+    Variables vs y
+    Correlation
+    Customer segmentation
+
+Phase 5 — Insight
+    Find 3–5 strongest findings
+    Connect findings to hypotheses
+    Identify most responsive customer segments
+    Discuss implications for future modelling
+
+Phase 6 — Report
+    Problem formulation
+    Data preprocessing
+    EDA
+    Findings
+    Conclusion
+    ≤ 7 pages
+    Grammar/spelling
+    PDF
